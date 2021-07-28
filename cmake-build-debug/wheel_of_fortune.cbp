@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="wheel_of_fortune"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="F:/cpp_projects/wheel_of_fortune/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="F:/mingw/mingw64/bin/mingw32-make.exe -f &quot;F:/cpp_projects/wheel_of_fortune/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="F:/mingw/mingw64/bin/mingw32-make.exe -f &quot;F:/cpp_projects/wheel_of_fortune/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="F:/mingw/mingw64/bin/mingw32-make.exe -f &quot;F:/cpp_projects/wheel_of_fortune/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="F:/mingw/mingw64/bin/mingw32-make.exe -f &quot;F:/cpp_projects/wheel_of_fortune/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="wheel_of_fortune">
+				<Option output="F:/cpp_projects/wheel_of_fortune/cmake-build-debug/wheel_of_fortune.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/cpp_projects/wheel_of_fortune/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="F:/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="F:/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="F:/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="F:/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="F:/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="F:/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="F:/mingw/mingw64/bin/mingw32-make.exe -f &quot;F:/cpp_projects/wheel_of_fortune/cmake-build-debug/Makefile&quot;  VERBOSE=1 wheel_of_fortune"/>
+					<CompileFile command="F:/mingw/mingw64/bin/mingw32-make.exe -f &quot;F:/cpp_projects/wheel_of_fortune/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="F:/mingw/mingw64/bin/mingw32-make.exe -f &quot;F:/cpp_projects/wheel_of_fortune/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="F:/mingw/mingw64/bin/mingw32-make.exe -f &quot;F:/cpp_projects/wheel_of_fortune/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="wheel_of_fortune/fast">
+				<Option output="F:/cpp_projects/wheel_of_fortune/cmake-build-debug/wheel_of_fortune.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/cpp_projects/wheel_of_fortune/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="F:/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="F:/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="F:/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="F:/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="F:/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="F:/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="F:/mingw/mingw64/bin/mingw32-make.exe -f &quot;F:/cpp_projects/wheel_of_fortune/cmake-build-debug/Makefile&quot;  VERBOSE=1 wheel_of_fortune/fast"/>
+					<CompileFile command="F:/mingw/mingw64/bin/mingw32-make.exe -f &quot;F:/cpp_projects/wheel_of_fortune/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="F:/mingw/mingw64/bin/mingw32-make.exe -f &quot;F:/cpp_projects/wheel_of_fortune/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="F:/mingw/mingw64/bin/mingw32-make.exe -f &quot;F:/cpp_projects/wheel_of_fortune/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="F:/cpp_projects/wheel_of_fortune/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="F:/mingw/mingw64/bin/mingw32-make.exe -f &quot;F:/cpp_projects/wheel_of_fortune/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="F:/mingw/mingw64/bin/mingw32-make.exe -f &quot;F:/cpp_projects/wheel_of_fortune/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="F:/mingw/mingw64/bin/mingw32-make.exe -f &quot;F:/cpp_projects/wheel_of_fortune/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="F:/mingw/mingw64/bin/mingw32-make.exe -f &quot;F:/cpp_projects/wheel_of_fortune/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="F:/cpp_projects/wheel_of_fortune/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="F:/mingw/mingw64/bin/mingw32-make.exe -f &quot;F:/cpp_projects/wheel_of_fortune/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="F:/mingw/mingw64/bin/mingw32-make.exe -f &quot;F:/cpp_projects/wheel_of_fortune/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="F:/mingw/mingw64/bin/mingw32-make.exe -f &quot;F:/cpp_projects/wheel_of_fortune/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="F:/mingw/mingw64/bin/mingw32-make.exe -f &quot;F:/cpp_projects/wheel_of_fortune/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="F:/cpp_projects/wheel_of_fortune/CPlayer.cpp">
+			<Option target="wheel_of_fortune"/>
+		</Unit>
+		<Unit filename="F:/cpp_projects/wheel_of_fortune/CPlayer.h">
+			<Option target="wheel_of_fortune"/>
+		</Unit>
+		<Unit filename="F:/cpp_projects/wheel_of_fortune/CWheelOfFortune.cpp">
+			<Option target="wheel_of_fortune"/>
+		</Unit>
+		<Unit filename="F:/cpp_projects/wheel_of_fortune/CWheelOfFortune.h">
+			<Option target="wheel_of_fortune"/>
+		</Unit>
+		<Unit filename="F:/cpp_projects/wheel_of_fortune/Cio.cpp">
+			<Option target="wheel_of_fortune"/>
+		</Unit>
+		<Unit filename="F:/cpp_projects/wheel_of_fortune/Cio.h">
+			<Option target="wheel_of_fortune"/>
+		</Unit>
+		<Unit filename="F:/cpp_projects/wheel_of_fortune/main.cpp">
+			<Option target="wheel_of_fortune"/>
+		</Unit>
+		<Unit filename="F:/cpp_projects/wheel_of_fortune/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
